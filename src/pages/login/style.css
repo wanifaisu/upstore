@@ -1,0 +1,19 @@
+@media (min-width: 280px) and (max-width: 920px) {
+  .secondary__text1 {
+    display: none;
+  }
+}
+@media (min-width: 280px) and (max-width: 920px) {
+  .secondary__text {
+    width: 100%;
+    align-items: center;
+  }
+  .sign_up {
+    font-size: 15px;
+  }
+}
+@media (min-width: 1020px) and (max-width: 1520px) {
+  .sign_up {
+    display: none;
+  }
+}
